@@ -1,0 +1,74 @@
+
+                  
+                                ----------------*-------****   APSSDC MACHINE LEARNING ****-------*-----------------------
+
+
+     ****** Index/Syllabus Covered *******
+
+	
+=====>Day-1
+
+            1. Introduction of Machine Learning                                               --** Sites For Machine Learning and with Dataset Resources **--
+            2. Types Machine learning
+            3. Problem solving steps in Machine learning                                              
+            4. Different Algorithms for Machine Learning                         Kaggle-------->1.Kaggle http://kaggle.com/
+
+=====>Day-2                                                              TowardsDatascience---->2.http://towardsdatascience.com/
+
+           1. working with CSV                                                  Datasets------->3.https://archive.ics.uci.edu/ml/datasets.php   
+           2. Linear Regression algorithm for boston dataset
+           3. Evaluation metric for algorithm                           Analytics Vidhya------->4.https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+=====>Day-3
+
+           1. Polynomial features for linear regression
+           2. boston dataset
+           3. cross validation
+
+=====>Day-4
+
+           1. K-NN algorithm
+           2. iris -dataset
+
+=====>Day-5
+
+           1. Logistic Regression( classifier)
+           2. iris dataset
+           3. SVM for iris dataset
+
+=====>Day-6
+
+           1. Decision Tree algorithm
+           2. Label encoder
+           3. one-hot-encoder
+           4. get dummies
+
+=====>Day-7
+           
+          1. Decision Tree regressor on reliance data set created manually
+          2. Random Forest algorithm
+          3. iris dataset
+
+=====>Day-8
+
+	  1. Unsupervised Learning
+	  2. Clustering
+	  3. K-Means clutering algorithm for winedataset
+
+=====>Day-9
+
+	  1. Dimentionality Reduction
+	  2. Principal component Analysis(PCA)
+ 	  3. Breast cancer dataset
+          4. IRIS dataset
+
+
+
+
+
+
+
+
+
+
+
